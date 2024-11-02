@@ -1,4 +1,4 @@
-<img src="https://github.com/LunarisLib/.github/tree/master/images/lunaris_logo_by_lupspie.png" width="400" align="right">
+<img src="https://github.com/LunarisLib/.github/blob/master/images/lunaris_logo_by_lupspie.png?raw=true" width="400" align="right">
 
 # Lunaris
 
